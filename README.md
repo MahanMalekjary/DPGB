@@ -17,7 +17,7 @@ DPGB (Discord Password Generator Bot) is a lightweight Python bot that generates
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.10+  
-- **Library:** discord.py (or nextcord/py-cord compatible)  
+- **Library:** nextcord/py-cord compatible)  
 - **Randomness:** `secrets` module for cryptographic-level randomness  
 - **Deployment:** Any machine or hosting service that supports Python bots
 
